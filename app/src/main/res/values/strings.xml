@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">knn-ia</string>
+    <string name="edit_text_price">Valor</string>
+    <string name="buyer_name">Nome Titular</string>
+    <string name="credit_card_number">Número do Cartão</string>
+    <string name="credit_card_code">Código</string>
+    <string name="button_end">Finalizar</string>
+    <string name="make_order">Realizar Compra</string>
+    <string name="sign_title">Cadastrar Cartão</string>
+    <string name="button_sign">Cadastrar</string>
+    <string name="home">home</string>
+    <string name="sign_menu">Cadastrar</string>
+    <string name="order_menu">Comprar</string>
+</resources>
