@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">knn-ia</string>
+    <string name="app_name">K-means</string>
     <string name="edit_text_price">Valor</string>
     <string name="buyer_name">Nome Titular</string>
     <string name="credit_card_number">Número do Cartão</string>
@@ -11,4 +11,5 @@
     <string name="home">home</string>
     <string name="sign_menu">Cadastrar</string>
     <string name="order_menu">Comprar</string>
+    <string name="snooze">DORMIR</string>
 </resources>
